@@ -2,7 +2,7 @@
 
 《Agent Memory Architecture — 5 Layers That Cut Token Cost 90%》的台灣繁體中文靜態譯本。原文為 2026 年獨立整理的工程筆記（綜合 CoALA、Mem0、Anthropic memory、Snowflake ontology、LangChain 等公開材料），**非 Anthropic 官方文件**。
 
-線上閱讀（GitHub Pages，由 `main` 分支根目錄提供）：
+線上閱讀（GitHub Pages，由 `main` 根目錄經 GitHub Actions 部署）：
 
 **https://minijinai75.github.io/agent-memory-zh/**
 
